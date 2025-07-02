@@ -1,1 +1,1 @@
-# computer-vision-AI
+# Teaching the fundementals of AI & CV
